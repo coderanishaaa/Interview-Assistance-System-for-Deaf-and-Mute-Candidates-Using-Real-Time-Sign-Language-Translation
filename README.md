@@ -73,7 +73,5 @@ IEEE Paper ID: `979-8-3315-3536-0/25/$31.00 ©2025 IEEE`
 
 ---
 
-## 📚 Citation
 
-If you use or reference this work, please cite the IEEE paper:
 
